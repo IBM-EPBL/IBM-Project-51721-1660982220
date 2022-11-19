@@ -1,6 +1,8 @@
 # IBM-Project-51721-1660982220
 
 Smart Waste Management System For Metropolitan Cities DOMAIN:INTERNET OF THINGS(IOT)
+
 TEAM ID: PNT2022TMID52303
+
 BATCH NO: B3-3M5E
 
